@@ -18,3 +18,7 @@ func main() {
 		fmt.Print("Error found")
 	}
 }
+
+func Add(a, b int) int {
+	return a + b
+}
